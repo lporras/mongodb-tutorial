@@ -3,7 +3,7 @@ Tutorial MongoDB para PROIN CHILE
 
 ## pasos
 
-* Instalar MongoDB Seguir las instrucciones de: https://www.mongodb.com/download-center?jmp=nav#community
+* Instalar MongoDB Seguir las instrucciones de: [link] (https://www.mongodb.com/download-center?jmp=nav#community)
 * Asegurarse de correr mongod daemon
 * Importar la base de datos de prueba que esta en dataset/primer-dataset.json
 * ejecutar MongoImport:
