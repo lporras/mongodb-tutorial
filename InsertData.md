@@ -50,3 +50,5 @@ Más información del método Insert se puede ver en este [link](https://docs.mo
 Para ver más ejemplos de insert pueden revisar el tutorial de insert de este [link]
 (https://docs.mongodb.com/manual/tutorial/insert-documents/)
 
+Siguente:
+* [Encontrar documentos en la Base de Datos](/findOrQuery.md)
