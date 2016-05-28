@@ -62,3 +62,5 @@ connecting to: test
 
 * [Insertar documentos en la Base de Datos] (/InsertData.md)
 * [Encontrar documentos en la Base de Datos](/findOrQuery.md)
+* [Actualizar los documentos de la Base de Datos](/updateData.md)
+* [Eliminar los documentos de la Base de Datos](/removeData.md)
