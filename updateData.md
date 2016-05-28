@@ -35,7 +35,8 @@ db.restaurants.update(
 
 Para actualizar más de 1 documento se debe especificar un 3er documento que indica la opción "multi".
 
-```db.restaurants.update(
+```
+db.restaurants.update(
   { "address.zipcode": "10016", cuisine: "Other" },
   {
     $set: { cuisine: "Category To Be Determined" },
