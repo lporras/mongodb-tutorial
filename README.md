@@ -61,3 +61,4 @@ connecting to: test
 ```
 
 * [Insertar documentos en la Base de Datos] (/InsertData.md)
+* [Encontrar documentos en la Base de Datos](/findOrQuery.md)
