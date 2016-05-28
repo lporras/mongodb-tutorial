@@ -44,3 +44,9 @@ Este método retorna objecto de resultado de escritura que indica el estado de l
 ```
 WriteResult({ "nInserted" : 1 })
 ```
+
+Más información del método Insert se puede ver en este [link](https://docs.mongodb.com/manual/reference/method/db.collection.insert/#db.collection.insert)
+
+Para ver más ejemplos de insert pueden revisar el tutorial de insert de este [link]
+(https://docs.mongodb.com/manual/tutorial/insert-documents/)
+
