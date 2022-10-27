@@ -76,3 +76,6 @@ For mongosh info see: https://docs.mongodb.com/mongodb-shell/
 * [Eliminar los documentos de la Base de Datos](/removeData.md)
 * [Aggregate tutorial] (https://www.mongodb.com/docs/manual/aggregation/)
 * [Drivers](https://www.mongodb.com/docs/drivers/drivers/)
+
+Por último les recomiendo ver los cursos disponibles de MongoDB en este [link](https://university.mongodb.com/courses/catalog)
+Pueden empezar primero con el [MongoDB Basics: M101](https://university.mongodb.com/courses/M001/about) y luego realizar los otros.
