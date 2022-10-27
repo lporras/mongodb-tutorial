@@ -70,11 +70,11 @@ For mongosh info see: https://docs.mongodb.com/mongodb-shell/
     isInteractive                              Returns whether the shell will enter or has entered interactive mode
 ```
 
-* [Insertar documentos en la Base de Datos] (/InsertData.md)
+* [Insertar documentos en la Base de Datos](/InsertData.md)
 * [Encontrar documentos en la Base de Datos](/findOrQuery.md)
 * [Actualizar los documentos de la Base de Datos](/updateData.md)
 * [Eliminar los documentos de la Base de Datos](/removeData.md)
-* [Aggregate tutorial] (https://www.mongodb.com/docs/manual/aggregation/)
+* [Aggregate tutorial](https://www.mongodb.com/docs/manual/aggregation/)
 * [Drivers](https://www.mongodb.com/docs/drivers/drivers/)
 
 Por último les recomiendo ver los cursos disponibles de MongoDB en este [link](https://university.mongodb.com/courses/catalog)
