@@ -11,7 +11,7 @@ Dentro de la consola de mongo ejecutar:
 Copia y Pega este código:
 
 ```
-db.restaurants.insert(
+db.restaurants.insertOne(
    {
       "address" : {
          "street" : "2 Avenue",
@@ -42,13 +42,18 @@ db.restaurants.insert(
 Este método retorna objecto de resultado de escritura que indica el estado de la operación:
 
 ```
-WriteResult({ "nInserted" : 1 })
+{
+  acknowledged: true,
+  insertedId: ObjectId("635ab15229cfc61642b5cf40")
+}
 ```
 
-Más información del método Insert se puede ver en este [link](https://docs.mongodb.com/manual/reference/method/db.collection.insert/#db.collection.insert)
+Más información del método InsertOne se puede ver en este [link](https://www.mongodb.com/docs/mongodb-shell/crud/insert/)
 
 Para ver más ejemplos de insert pueden revisar el tutorial de insert de este [link]
-(https://docs.mongodb.com/manual/tutorial/insert-documents/)
+(https://www.mongodb.com/docs/manual/tutorial/insert-documents/)
+**Nota:** Al leer la documentación hay un selector en la parte superior derecha que te permite elegir el lenguaje,
+se debe elegir la opción MongoDB Shell
 
 Siguente:
 * [Encontrar documentos en la Base de Datos](/findOrQuery.md)
