@@ -3,7 +3,7 @@ Tutorial MongoDB
 
 ## pasos
 
-* Instalar MongoDB Seguir las instrucciones de: [link] (https://www.mongodb.com/docs/manual/installation/)
+* Instalar MongoDB Seguir las instrucciones de: [link](https://www.mongodb.com/docs/manual/installation/)
 	Para Windows usar este [link](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-windows/)
 	Para Mac usar este [link](https://www.mongodb.com/docs/manual/tutorial/install-mongodb-on-os-x/)
 * Asegurarse de correr mongod daemon
